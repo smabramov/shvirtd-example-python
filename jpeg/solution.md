@@ -23,4 +23,4 @@
 
 Мой репозиторий
 
-(git@github.com:smabramov/shvirtd-example-python.git)
+git@github.com:smabramov/shvirtd-example-python.git
